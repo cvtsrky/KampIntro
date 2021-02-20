@@ -9,6 +9,7 @@ namespace KampIntro
             double dolarDun = 7.55;
             double dolarBugun = 7.45;
 
+
             if (dolarDun>dolarBugun)
             {
                 Console.WriteLine("Azalmış");
