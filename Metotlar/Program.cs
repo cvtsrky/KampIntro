@@ -6,6 +6,7 @@ namespace Metotlar
     {
         static void Main(string[] args)
         {
+
             Urun urun1 = new Urun();
             urun1.Adi = "Elma";
             urun1.Fiyati = 15;

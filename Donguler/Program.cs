@@ -8,7 +8,6 @@ namespace Donguler
     {
         public static void Main(string[] args)
         {
-
             Product product = new Product();
             product.productName = "Monster Laptop";
             product.productPrice = 1200;
