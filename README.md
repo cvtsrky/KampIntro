@@ -1,4 +1,4 @@
 # Kodlama.io
-# Yazılım Geliştirici Yetiştirme Kampı
-Yazılım Geliştirici Yetiştirme Kampı kapsamında yazdığım kodlar
+
+Yazılım Geliştirici Yetiştirme Kampı (C#) kapsamında yazdığım kodlar
 
